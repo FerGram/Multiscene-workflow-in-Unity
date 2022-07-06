@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b4d1ecc3b39f9b49a47147a8e67fe82, type: 3}
+  m_Name: SceneData_Scene 1
+  m_EditorClassIdentifier: 
+  SceneName: Scene 1
+  SceneDescription: 
+  SceneMusic: {fileID: 8300000, guid: 64cfafc7b8e16404ba28814564d58860, type: 3}
+  AdjacentScenes:
+  - {fileID: 11400000, guid: 84b40c153a01c0d42a63db209d6371b9, type: 2}
+  - {fileID: 11400000, guid: 70c890a58b9486d4da6254ee9186ef50, type: 2}
